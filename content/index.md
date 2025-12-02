@@ -10,6 +10,13 @@ Hi, I'm a PhD student at Radboud University of Nijmegen. I use this website to k
 
 ![[foto1.jpg|400]]
 
+
+# Papers and Preprints
+
+- The Hiraga-Ichino-Ikeda Conjecture for Principal Series of Split p-adic Groups [Arxiv](https://arxiv.org/abs/2506.19619)
+
+
+
 # Teaching
 
 - TA for the course "Rings and Fields" at Radboud University (2025).
