@@ -13,7 +13,11 @@ Hi, I'm a PhD student at Radboud University of Nijmegen. I use this website to k
 
 # Papers and Preprints
 
-- The Hiraga-Ichino-Ikeda Conjecture for Principal Series of Split p-adic Groups [Arxiv](https://arxiv.org/abs/2506.19619)
+- Formal degree of principal series of quasi-split groups [ArXiv](https://arxiv.org/abs/2604.14823)
+
+- The Hiraga-Ichino-Ikeda Conjecture for Principal Series of Split p-adic Groups [ArXiv](https://arxiv.org/abs/2506.19619)
+
+
 
 
 
